@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chmomagn.github.io/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/app/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/assets/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/css/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/includes/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/item/sitemap.html.gz
+Sitemap: https://chmomagn.github.io/src/sitemap.html.gz
